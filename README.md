@@ -105,9 +105,3 @@ uvicorn api_server:app --reload
 | JSON Parsing  | jq (for terminal output) |
 | Dataset Format| Excel (.xlsx → SQLite)   |
 
----
-
-##  Author
-
-**Gokularaman C**  
----
